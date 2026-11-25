@@ -62,3 +62,12 @@ src/
     ├── Condiciones.jsx
     └── NotFound.jsx
 ```
+
+
+## Evidencia visual
+
+Capturas generadas con el servidor local para documentar las vistas principales:
+
+- [Landing Page](evidence/landing.png)
+- [Dashboard](evidence/dashboard.png)
+- [Ruta 404](evidence/not-found.png)
